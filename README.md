@@ -2,6 +2,10 @@
 
 RPA・QA・業務改善の実務経験を土台に、**分析を作って終わらせず、現場の判断と効果検証までつなげる力**を示す3つのケーススタディです。金融機関の機密情報・個人情報は使用せず、再現可能な合成データで業務設計を表現しています。
 
+- Location: Osaka, Japan
+- Languages: Japanese（JLPT N1）, Chinese, Korean
+- Experience: RPA, QA, Test Automation, Business Process Improvement
+
 ## 3 projects
 
 | Project | Business decision | Key result | Skills |
