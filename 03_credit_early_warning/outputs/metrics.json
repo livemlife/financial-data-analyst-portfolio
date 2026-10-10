@@ -1,0 +1,10 @@
+{
+  "companies": 5000,
+  "test_distress_rate": 0.008,
+  "roc_auc": 0.8539516129032259,
+  "pr_auc": 0.15721173468676003,
+  "brier_score": 0.0073177981909571055,
+  "baseline_high": 126,
+  "stress_high": 469,
+  "new_high_under_stress": 343
+}

@@ -1,0 +1,8 @@
+{
+  "customers": 8000,
+  "churn_rate": 0.055875,
+  "roc_auc": 0.7586921156174334,
+  "pr_auc": 0.19093497170199095,
+  "priority_customers": 29,
+  "priority_margin_at_risk_jpy": 260461
+}

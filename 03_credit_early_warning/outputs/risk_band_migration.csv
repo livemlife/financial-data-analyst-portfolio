@@ -1,0 +1,7 @@
+baseline_band,stress_band,companies
+High,High,126
+Low,High,4
+Low,Low,3451
+Low,Monitor,1031
+Monitor,High,339
+Monitor,Monitor,49
